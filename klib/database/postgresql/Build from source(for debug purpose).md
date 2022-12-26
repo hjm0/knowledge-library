@@ -8,7 +8,7 @@ build from source
 ```shell
 cd path_to_your_postgres_folder
 
-./configre --prefix=$HOME/dev/db/pg_latest        \
+./configure --prefix=$HOME/dev/db/pg_latest        \
 	--enable-cassert --enable-debug              \
 	CFLAGS="-ggdb -O0 -fno-omit-frame-pointer"   \
 	CPPFLAGS="-g -O0"

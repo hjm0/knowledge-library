@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "1021f3c86ee20348",
+    "type": "split",
+    "children": [
+      {
+        "id": "bad91af5af7ea761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb9131df4e9958b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "klib/database/postgresql/Build from source(for debug purpose).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69fee0416ca9a985",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa0904ea2e79ea72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f75d8ebaea32db0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce5ccd3f97c147a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bbcc819d2aa1861",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e2480ebb305f66b",
+    "type": "split",
+    "children": [
+      {
+        "id": "395cffd5b7a46b82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6627d0da4455b0a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "klib/database/postgresql/Build from source(for debug purpose).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cb2991a9f7139da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "klib/database/postgresql/Build from source(for debug purpose).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7708ad8c03a41242",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c013e7657db9db0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "klib/database/postgresql/Build from source(for debug purpose).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fb9131df4e9958b4",
+  "lastOpenFiles": []
+}
